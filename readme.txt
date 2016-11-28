@@ -14,3 +14,4 @@ RebaseBranch1 change2
 RebaseBranch1 change3
 RebaseBranch2 change1
 RebaseBranch2 change2
+RebaseBranch2 change3
