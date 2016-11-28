@@ -1,6 +1,7 @@
 Dette er en test
 master change 1
 master change 2
+master change 3
 Linje 2
 Linje 3
 Linje 4
