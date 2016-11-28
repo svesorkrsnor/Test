@@ -4,3 +4,4 @@ Linje 3
 Linje 4
 Linje 5
 Linje 6
+MergeBranch1 change1
