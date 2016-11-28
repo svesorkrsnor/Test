@@ -9,3 +9,6 @@ Linje 6
 MergeBranch1 change1
 MergeBranch1 change2
 MergeBranch1 change3
+RebaseBranch1 change1
+RebaseBranch1 change2
+RebaseBranch1 change3
