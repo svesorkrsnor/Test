@@ -6,3 +6,4 @@ Linje 5
 Linje 6
 MergeBranch1 change1
 MergeBranch1 change2
+MergeBranch1 change3
