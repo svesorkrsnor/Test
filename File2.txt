@@ -1,3 +1,4 @@
 File 2
 Linje 2
 Linje 3
+Linje 4
