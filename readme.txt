@@ -18,3 +18,4 @@ RebaseBranch2 change1
 RebaseBranch2 change3
 Linje 8
 Linje 9
+Linje 10
